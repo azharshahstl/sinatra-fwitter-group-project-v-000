@@ -12,6 +12,7 @@ gem 'pry'
 gem 'bcrypt'
 gem "tux"
 
+
   gem 'rspec'
   gem 'capybara'
   # gem 'selenium'
